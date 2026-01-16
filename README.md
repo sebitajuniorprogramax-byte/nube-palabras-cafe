@@ -20,3 +20,6 @@ max_words: Define cuántas palabras quieres mostrar.
 
 Resultado Esperado
 El script genera una imagen llamada resultado_cafeteria.png con los términos más frecuentes, permitiendo un análisis visual inmediato de las preferencias de los clientes.
+
+<img width="1175" height="838" alt="descarga" src="https://github.com/user-attachments/assets/d309504a-e124-4225-89d6-d1f310001799" />
+
